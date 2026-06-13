@@ -33,8 +33,10 @@ This project focuses on the design and simulation of a CMOS-based neuron and syn
 - Neuromorphic Computing
 ## Results
 ### Circuit Design
-![Circuit](<img width="1366" height="768" alt="Neuron" src="https://github.com/user-attachments/assets/7c0d489d-4b8e-4307-9536-45210db8c820" />
-)
+<img width="1366" height="768" alt="Neuron" src="https://github.com/user-attachments/assets/3cc74b4e-a625-40b6-8244-a28b63ea6e2d" />
+<img width="1177" height="505" alt="WhatsApp Image 2026-06-13 at 7 48 58 PM" src="https://github.com/user-attachments/assets/7a2f160f-5cf7-4208-bc72-9480471641c6" />
+
+
 ### Output Waveforms
 ![Waveforms](waveforms.png<img width="1362" height="505" alt="WhatsApp Image 2026-06-13 at 7 48 59 PM" src="https://github.com/user-attachments/assets/c3e12d10-6a53-4c60-b99c-4c0f9e9773d9" />
 )
